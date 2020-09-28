@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlarmNotification</string>
+    <string name="select">Pick time</string>
+    <string name="stop">Stop</string>
+    <string name="notification_channel">alarm channel</string>
+    <string name="alarm_title">Timer</string>
+    <string name="alarm_text">Time is up! Hurry!</string>
+    <string name="sleep">Sleep</string>
+</resources>
