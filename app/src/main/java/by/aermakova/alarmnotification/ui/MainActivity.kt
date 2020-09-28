@@ -98,7 +98,6 @@ interface UpdateTimerListener {
     fun updateTimer(newTime: String?)
 }
 
-
 class UpdateTimer(private val listener: UpdateTimerListener) : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent?) {
